@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "244862065242",
+    "firebase_url": "https://hope-accelerated.firebaseio.com",
+    "project_id": "hope-accelerated",
+    "storage_bucket": "hope-accelerated.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244862065242:android:26bc30cba09d8dbeea5663",
+        "android_client_info": {
+          "package_name": "com.bigmudi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244862065242-t7ic5nmp8s5gr55tfhmo7ttjgrklgame.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bigmudi",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "244862065242-bntq0lcapkbtef2a3g6chaaiattfgilj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA24qG_I-LSx2exzYvX_hBO_5rfMJmb-os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244862065242-bntq0lcapkbtef2a3g6chaaiattfgilj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244862065242:android:5955a32aad19109bea5663",
+        "android_client_info": {
+          "package_name": "com.blocked"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244862065242-fb49lpnem6qc89lrushnid3o9ddjq6fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blocked",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "244862065242-bntq0lcapkbtef2a3g6chaaiattfgilj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA24qG_I-LSx2exzYvX_hBO_5rfMJmb-os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244862065242-bntq0lcapkbtef2a3g6chaaiattfgilj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244862065242:android:a973ff3146674acbea5663",
+        "android_client_info": {
+          "package_name": "com.blockmed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244862065242-6au8s0qpg6rcpsuuoiv06ftriscfvs56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blockmed",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "244862065242-bntq0lcapkbtef2a3g6chaaiattfgilj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA24qG_I-LSx2exzYvX_hBO_5rfMJmb-os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244862065242-bntq0lcapkbtef2a3g6chaaiattfgilj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
