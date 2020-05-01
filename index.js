@@ -63,10 +63,10 @@ Navigation.events().registerAppLaunchedListener(() => {
          children: [
            {
              component: {
-              //  name:"UserSignUpDetails",
+                // name:"UserSignUpDetails",
                 //  name:"SocialLogins",
                 // name: 'PhoneAuthentication',
-                   name: 'WelcomeScreen',
+                    name: 'WelcomeScreen',
                options: {
                  statusBar: {
                    

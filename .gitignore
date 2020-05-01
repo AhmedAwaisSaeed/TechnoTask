@@ -23,6 +23,13 @@ DerivedData
 
 # Android/IntelliJ
 #
+android/java_pid1217.hprof
+android/java_pid1398.hprof
+android/java_pid773.hprof
+android/java_pid775.hprof
+android/java_pid808.hprof
+android/java_pid842.hprof
+android/java_pid852.hprof  
 build/
 .idea
 .gradle

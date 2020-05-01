@@ -14,6 +14,7 @@ import {
 
 import SplashScreen from 'react-native-splash-screen';
 import GreenButton from '../components/Buttons/GreenButton';
+import InputTextView from '../components/InputTextView';
 import {KeyboardAwareScrollView} from 'react-native-keyboard-aware-scrollview';
 import CheckBox from 'react-native-check-box';
 
@@ -226,19 +227,20 @@ enableOnAndroid={true}
     
       <CardViewSmall>
 
-      <TextInput
+      <InputTextView
 
 //  keyboardType={"number-pad"} 
 
-      style={styles.InputTextStyle}
+      // style={styles.InputTextStyle}
       onChangeText={(value)=>this.on_change_first_name(value)}
       value={this.state.firstName}
       placeholder="First Name"
       // autoCapitalize = 'none'
-      placeholderTextColor="#808080"
+      placeholderTextColor="#808080" 
       // keyboardType="number-pad"
+      >
 
-        />
+      </InputTextView>
       
       </CardViewSmall>
 
@@ -246,17 +248,17 @@ enableOnAndroid={true}
 
       <CardViewSmall>
 
-      <TextInput
+      <InputTextView
 
-      style={styles.InputTextStyle}
+      
       onChangeText={(value)=>this.on_change_last_name(value)}
       value={this.state.lastName}
       placeholder="Last Name"
       
-      placeholderTextColor="#808080"
+      placeholderTextColor="#808080">
       
 
-        />
+      </InputTextView>
       
       </CardViewSmall>
 
@@ -266,17 +268,22 @@ enableOnAndroid={true}
     <View style={{flex:0.3,marginRight:20}}>
       <CardViewSmall>
 
-      <TextInput
 
-      style={styles.InputTextStyle}
-      onChangeText={(value)=>this.on_change_code(value)}
-      value={this.state.code}
-      placeholder="Code"
-      keyboardType="phone-pad"
-      placeholderTextColor="#808080"
+
+
+      <InputTextView
+
       
+onChangeText={(value)=>this.on_change_code(value)}
+value={this.state.code}
+placeholder="Code"
+keyboardType="phone-pad"
+placeholderTextColor="#808080"
+>
 
-        />
+
+</InputTextView>
+
       
       </CardViewSmall>
       </View>
