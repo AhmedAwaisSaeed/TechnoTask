@@ -12,7 +12,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.util.List;
 import com.reactnativenavigation.NavigationApplication;
 import com.reactnativenavigation.react.NavigationReactNativeHost;
-import org.devio.rn.splashscreen.SplashScreenReactPackage;
+
 
 //public class MainApplication extends Application implements ReactApplication {
 public class MainApplication extends NavigationApplication {
